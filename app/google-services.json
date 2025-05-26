@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766679042563",
+    "project_id": "planer-f30dd",
+    "storage_bucket": "planer-f30dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766679042563:android:322219c029b30c4c0f9c36",
+        "android_client_info": {
+          "package_name": "pl.example.planer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFnqFdhDuyWUYO-JublLEJxLkD5wYchC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
